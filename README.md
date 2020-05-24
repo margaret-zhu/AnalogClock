@@ -1,1 +1,3 @@
-# A JavaScript project simulating an analog clock that displays the current time in your browser.
+# An analog clock
+
+A JavaScript project simulating an analog clock that displays the current time in your browser.
